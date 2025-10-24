@@ -32,29 +32,3 @@ This project demonstrates real-world DevOps practices integrating **Git, Jenkins
 ✅ Integrating cloud-native tools for scalable delivery.  
 
 ---
-
-## 🖼️ Visual Overview
-
-### CI/CD Lifecycle
-<img src="./assets/devops_flow.png" alt="CI/CD Flow" width="700">
-
-### DevOps Pipeline
-<img src="./assets/devops_pipeline.png" alt="DevOps Pipeline Diagram" width="700">
-
-### Toolchain Overview
-<img src="./assets/devops_tools.png" alt="DevOps Tools Overview" width="700">
-
----
-
-## 📘 Sections Overview
-- **Section 1:** Introduction  
-- **Section 2:** CI/CD using Git, Jenkins & Maven  
-- **Section 3:** Integrating Tomcat  
-- **Section 4:** Integrating Docker  
-- **Section 5:** Integrating Ansible  
-- **Section 6:** Kubernetes on AWS  
-- **Section 7:** Kubernetes Integration  
-
----
-
-## 📂 Folder Structure
