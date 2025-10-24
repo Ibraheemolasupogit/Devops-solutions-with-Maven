@@ -5,7 +5,7 @@ This project demonstrates real-world DevOps practices integrating **Git, Jenkins
 
 ---
 
-![DevOps Pipeline Overview](./screenshot/[Screenshot 2025-10-24 at 11.12.10].png)
+![DevOps Pipeline Overview](./screenshot/workflow_3.png)
 
 ## 🧩 Tech Stack
 - **Version Control:** Git, GitHub  
@@ -34,5 +34,6 @@ This project demonstrates real-world DevOps practices integrating **Git, Jenkins
 ✅ Integrating cloud-native tools for scalable delivery.  
 
 ---
+
 
 
